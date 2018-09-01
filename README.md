@@ -11,5 +11,5 @@ Game AI Architecture
   * Finite State Machine
   * Goal Oriented Action Planning
   * Hierarchical Task Network Planning
-
+* Powerpoint Slide
 
